@@ -1,0 +1,26 @@
+[[module.imports]]
+path = "github.com/hbstack/back-to-top"
+
+[[module.imports]]
+path = "github.com/hbstack/bigger-picture"
+
+[[module.imports]]
+path = "github.com/hbstack/code-block-panel"
+
+[[module.imports]]
+path = "github.com/hbstack/meta/docs"
+
+[[module.imports]]
+path = "github.com/hbstack/meta/standard"
+
+[[module.imports]]
+path = "github.com/hbstack/noscript"
+
+[[module.imports]]
+path = "github.com/hbstack/progress-bar"
+
+[[module.imports]]
+path = "github.com/hbstack/pwa"
+
+[[module.imports]]
+path = "github.com/hbstack/scrollbar"

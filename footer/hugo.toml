@@ -1,0 +1,5 @@
+[[module.imports]]
+path = "github.com/hbstack/footer"
+
+[[module.imports]]
+path = "github.com/hbstack/footer/modules/socials"
