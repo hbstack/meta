@@ -58,6 +58,7 @@ github.com/hugomods/hugopress v0.1.0/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39W
 github.com/hugomods/i18n-js v0.1.0 h1:gJmJVObN8rvtMEwBW/z9Wiitown5ZT91092UaAO+UIE=
 github.com/hugomods/i18n-js v0.1.0/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
 github.com/hugomods/i18n-js v0.2.0/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
+github.com/hugomods/i18n-js v0.2.1/go.mod h1:eJfxjgI2CQsNA1/ReIVvr5127DftUKcbHd2A2SQmDvU=
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
 github.com/hugomods/icons v0.6.0/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
 github.com/hugomods/icons/vendors/simple-icons v0.11.0 h1:n/+8UC7JaFKOfoZa1xXlR/4m9ltjEdZzrirXzMbzppA=
