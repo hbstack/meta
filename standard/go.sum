@@ -64,6 +64,7 @@ github.com/hugomods/icons v0.6.0/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P3
 github.com/hugomods/icons/vendors/simple-icons v0.11.0 h1:n/+8UC7JaFKOfoZa1xXlR/4m9ltjEdZzrirXzMbzppA=
 github.com/hugomods/icons/vendors/simple-icons v0.11.0/go.mod h1:Ie17K870r5lY0b4xmXZs9Bil/lCSyRyHX7e84jt1I+U=
 github.com/hugomods/icons/vendors/simple-icons v0.12.0/go.mod h1:HRoAt4pAGMH8wXDLr8b0JHg3WlGbCtIayHgYoYpE9g8=
+github.com/hugomods/icons/vendors/simple-icons v0.13.0/go.mod h1:v/oRhlvStyi/5SE30t6Hg6Qpduhf5de6V0uvPjfz6Yk=
 github.com/hugomods/mermaid v0.1.1 h1:12b8DbdiKOTtPmkWOMXsBz3LKkAWVqa5tGkbEboj0a4=
 github.com/hugomods/mermaid v0.1.1/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
 github.com/hugomods/seo/modules/base v0.1.0 h1:ZEkWuYeRJeQakBkBThO3N3lmGzOZoPixs4pDugJXfJk=
