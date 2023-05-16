@@ -10,6 +10,6 @@ require (
 	github.com/hugomods/hugopress v0.1.0 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.0 // indirect
 	github.com/hugomods/images v0.5.1 // indirect
-	github.com/hugomods/katex v0.1.5 // indirect
+	github.com/hugomods/katex v0.2.0 // indirect
 	github.com/hugomods/shortcodes v0.7.0 // indirect
 )
