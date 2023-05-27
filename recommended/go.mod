@@ -38,7 +38,7 @@ require (
 	github.com/hugomods/seo/modules/twitter-cards v0.1.0 // indirect
 	github.com/hugomods/shortcodes v0.7.0 // indirect
 	github.com/hugomods/simple-icons v8.15.0+incompatible // indirect
-	github.com/hugomods/snackbar v0.1.1 // indirect
+	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v7.1.1+incompatible // indirect
 	github.com/twbs/icons v1.10.5 // indirect
