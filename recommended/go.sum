@@ -80,6 +80,7 @@ github.com/hugomods/simple-icons v8.14.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/
 github.com/hugomods/simple-icons v8.15.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/snackbar v0.1.1 h1:tw5RFmNL7Wc0YGkoMFAevJIZDCmVFwrMpQ4dPSF3BWQ=
 github.com/hugomods/snackbar v0.1.1/go.mod h1:ykFm0IFibeQPuPAm8Gaa27xJS/bNZcSez4omVSl2gQ0=
+github.com/hugomods/snackbar v0.1.2/go.mod h1:ykFm0IFibeQPuPAm8Gaa27xJS/bNZcSez4omVSl2gQ0=
 github.com/hugomods/workbox v0.1.0 h1:yxuTj3gT1BNf6OitxrjxSJXfmbFBj2UTwdWr142eYFQ=
 github.com/hugomods/workbox v0.1.0/go.mod h1:RpFcIcltqYsiHWJV6PHPOdMagFZxO7nrO5XUpn/TMoc=
 github.com/jakearchibald/idb v7.1.1+incompatible h1:/o1ng3qUjgMUeeKFim3J3tiQAitcVXU12pXIjSzwT/c=
