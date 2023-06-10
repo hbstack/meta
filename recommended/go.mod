@@ -22,7 +22,7 @@ require (
 	github.com/hbstack/pwa v0.1.2 // indirect
 	github.com/hbstack/scrollbar v0.1.0 // indirect
 	github.com/hbstack/search v0.1.7 // indirect
-	github.com/hbstack/slide v0.1.0 // indirect
+	github.com/hbstack/slide v0.2.0 // indirect
 	github.com/hbstack/socials v0.2.0 // indirect
 	github.com/hugomods/base v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
