@@ -4,6 +4,7 @@
     "monorepo-tags": true,
     "release-type": "go",
     "tag-separator": "/",
+    "separate-pull-requests": true,
     "changelog-sections": [
         { "type": "chore", "section": "Miscellaneous Chores", "hidden": true },
         { "type": "ci", "section": "Continuous Integration" },
