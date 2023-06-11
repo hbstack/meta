@@ -25,6 +25,7 @@ github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I
 github.com/hbstack/mermaid v0.1.0/go.mod h1:dQAfzX1SA4b3k5ytA8WPR5luxjX4ii7EdtoRsr8WLNw=
 github.com/hbstack/meta/docs v0.2.1 h1:GsEUVKOjX1UweDyz0VUlEfuwI/ZzKWx0d0N2BMMC68c=
 github.com/hbstack/meta/docs v0.2.1/go.mod h1:sNsDa+7ImjuCia26HfrpwyK5KCThG/ey0NN084jJr04=
+github.com/hbstack/meta/docs v0.2.2/go.mod h1:bIl4e2oIquO4/0iEIZr7gcGZkCUmTDlLPx8RAqi/jtE=
 github.com/hbstack/meta/standard v0.2.0 h1:bIYe8ZfajdD9sC7ZYDVGTo3jKD/SudYG9aTMhRJ0pG8=
 github.com/hbstack/meta/standard v0.2.0/go.mod h1:785V9xUzqd5run3gxjOHhMz9ewCwrDS7sUv4H11IWi8=
 github.com/hbstack/noscript v0.2.0 h1:yAWYGD1stUicaKATrA9BnhQNjRZWgiFgP8Y7C44AqG0=
