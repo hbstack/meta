@@ -46,6 +46,7 @@ github.com/hbstack/header/modules/theme-toggle v0.1.2/go.mod h1:5dtE0u/QGl3DAqz+
 github.com/hbstack/meta/blog v0.2.1 h1:M7IU8SbVQMD568T4+8vGew2KQdBoKSXLxhpftvFlz38=
 github.com/hbstack/meta/blog v0.2.1/go.mod h1:mej4Mwbr7zuPUKGNwjkJlsicp+pnz+RaDOGakV6B2Y4=
 github.com/hbstack/meta/blog v0.2.2/go.mod h1:epnSQ+faXwWx5RTfAioEm2Utlm1X+lx0T9yWnzDdpmY=
+github.com/hbstack/meta/blog v0.2.3/go.mod h1:zaYYLTM3hSXeT/M88W89i1HBDkJLTH3cAFALA1DAV80=
 github.com/hbstack/meta/content v0.4.1 h1:cIIXOKRp4Dx26E5d8pgXtgULaEaqg++GR/TFpL5b64s=
 github.com/hbstack/meta/content v0.4.1/go.mod h1:nU4+sEJuqQEqSSJBSuFpDumAEOi6RM9kUc2viK8M/F4=
 github.com/hbstack/meta/content v0.4.2/go.mod h1:929A+mjvO1hBlejmrb0wLckYBvwA38WlkKGj7MN+CUk=
