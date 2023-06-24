@@ -1,5 +1,6 @@
 github.com/KaTex/KaTex v0.16.7 h1:9+W46JEDL9cjwCkpp1VjPZQDffsNEz5GnIxlWbGcLNs=
 github.com/KaTex/KaTex v0.16.7/go.mod h1:glx8oEJ5DjEA60bktiK8V/5CsCXN3TRFKU5m2b5zpfc=
+github.com/KaTex/KaTex v0.16.8/go.mod h1:glx8oEJ5DjEA60bktiK8V/5CsCXN3TRFKU5m2b5zpfc=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003 h1:pt/JGVD5YYRsVVijOHPZI6YKTUvbR4e0hgV9B0S6rbI=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003/go.mod h1:mvM05r93HiefwoaxQTaYiJxtJAhTebwQtU1Xh/J+Okk=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
