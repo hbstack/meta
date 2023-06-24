@@ -3,7 +3,7 @@ module github.com/hbstack/meta/standard
 go 1.19
 
 require (
-	github.com/KaTex/KaTex v0.16.7 // indirect
+	github.com/KaTex/KaTex v0.16.8 // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003 // indirect
 	github.com/hbstack/blog v0.15.0 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.5 // indirect
