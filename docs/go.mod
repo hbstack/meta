@@ -7,7 +7,7 @@ require (
 	github.com/hbstack/carousel v0.2.2 // indirect
 	github.com/hbstack/docs v0.6.0 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.3 // indirect
-	github.com/hbstack/docs/modules/doc-nav v0.2.1 // indirect
+	github.com/hbstack/docs/modules/doc-nav v0.2.2 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.1 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.2 // indirect
 	github.com/hbstack/hb v0.5.1 // indirect
