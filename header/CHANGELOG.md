@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.3](https://github.com/hbstack/meta/compare/header/v0.2.2...header/v0.2.3) (2023-07-04)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hugomods/simple-icons to v9.3.0+incompatible ([fb80df4](https://github.com/hbstack/meta/commit/fb80df4f4b530d9296ad86c9f92f57619fb5cd9d))
+* **deps:** update module github.com/hugomods/simple-icons to v9.4.0+incompatible ([1c58d31](https://github.com/hbstack/meta/commit/1c58d31254cd1a99061e2c60feaaf2ba281d5bdb))
+
 ## [0.2.2](https://github.com/hbstack/meta/compare/header/v0.2.1...header/v0.2.2) (2023-06-19)
 
 

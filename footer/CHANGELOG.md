@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.3](https://github.com/hbstack/meta/compare/footer/v0.2.2...footer/v0.2.3) (2023-07-04)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.3 ([85b2d87](https://github.com/hbstack/meta/commit/85b2d8716901e5a94584ee7d318c516c01acc4ff))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.4 ([3a1b6ed](https://github.com/hbstack/meta/commit/3a1b6ed92813dbe3567ccba99978e6e8fe787f2d))
+
 ## [0.2.2](https://github.com/hbstack/meta/compare/footer/v0.2.1...footer/v0.2.2) (2023-06-19)
 
 
