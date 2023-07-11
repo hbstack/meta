@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.7](https://github.com/hbstack/meta/compare/docs/v0.2.6...docs/v0.2.7) (2023-07-11)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/docs to v0.6.1 ([274ece4](https://github.com/hbstack/meta/commit/274ece4bcd3efb7cddf29c2872e95686444d4b98))
+* **deps:** update module github.com/hugomods/simple-icons to v9.5.0+incompatible ([15650da](https://github.com/hbstack/meta/commit/15650da608e49f1b20635845e2c490964c63d3bf))
+
 ## [0.2.6](https://github.com/hbstack/meta/compare/docs/v0.2.5...docs/v0.2.6) (2023-07-04)
 
 
