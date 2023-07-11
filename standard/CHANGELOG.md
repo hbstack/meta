@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.2.4](https://github.com/hbstack/meta/compare/standard/v0.2.3...standard/v0.2.4) (2023-07-11)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/header to v0.2.0 ([865f5d9](https://github.com/hbstack/meta/commit/865f5d953f6a1b716700d9e14d58f5fbd1662758))
+* **deps:** update module github.com/hbstack/header to v0.3.0 ([9611be4](https://github.com/hbstack/meta/commit/9611be44f511dea8ed4e19fb4c38876946ca826f))
+* **deps:** update module github.com/hbstack/header/modules/socials to v0.1.3 ([c7fa821](https://github.com/hbstack/meta/commit/c7fa8211d68c7965640d81ef9a0f8b18492fde73))
+* **deps:** update module github.com/hbstack/meta/blog to v0.2.4 ([e0de7b7](https://github.com/hbstack/meta/commit/e0de7b745461284b3b9149deadf50228ec70f564))
+* **deps:** update module github.com/hbstack/meta/content to v0.4.4 ([f64f3d8](https://github.com/hbstack/meta/commit/f64f3d84477be3181720b26fc2c56a750367536f))
+* **deps:** update module github.com/hbstack/meta/footer to v0.2.3 ([409c4a0](https://github.com/hbstack/meta/commit/409c4a0cc0b3921a6d91d041ff57183ed922b0b8))
+* **deps:** update module github.com/hbstack/meta/header to v0.2.3 ([65a23cc](https://github.com/hbstack/meta/commit/65a23ccda34898b37614ec4c4e37bf34a2a236fc))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.5 ([efc67de](https://github.com/hbstack/meta/commit/efc67de7a206a189930c0f59d25690831dcd13e8))
+
 ## [0.2.3](https://github.com/hbstack/meta/compare/standard/v0.2.2...standard/v0.2.3) (2023-07-04)
 
 
