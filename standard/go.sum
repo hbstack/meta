@@ -74,6 +74,7 @@ github.com/hbstack/meta/header v0.2.0/go.mod h1:WAXHbiBx7VaSlGAv5BWogtfG2t3ENZqY
 github.com/hbstack/meta/header v0.2.1/go.mod h1:zMDYUSA+uC8V3db2GM8NPDP+tyZQtk6W7f5LMGDHomg=
 github.com/hbstack/meta/header v0.2.2/go.mod h1:kYYHd5izwemd1K4v6gFABkdJWiHtX24ZT6BJnPV3Woo=
 github.com/hbstack/meta/header v0.2.3/go.mod h1:0c6VrR2+NPNur8juSV65iwLkaJ9q3scfDexIDjIvFOQ=
+github.com/hbstack/meta/header v0.2.4/go.mod h1:oe5fpdTpm7rGTcKII3L4pYus30UPkeEpP4H5E7ZGIXk=
 github.com/hbstack/meta/seo v0.2.0 h1:0xemjrVWwLmYjzKCAmo/6vxWEHACXimjT7vlFYXgmCM=
 github.com/hbstack/meta/seo v0.2.0/go.mod h1:41BjjCbTMPJCmrepy5wXjwkV2QQxLyM8Q2kUrJpH/sM=
 github.com/hbstack/syntax-highlighting v0.1.0 h1:WxdhNgCktllNKQDqu1BmLmg9dsi77/dXIlcdQ8KZZI0=
