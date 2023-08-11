@@ -9,11 +9,11 @@ require (
 	github.com/hbstack/blog/modules/breadcrumb v0.1.9 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.5 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.6 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.2.7 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.2.8 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.9 // indirect
 	github.com/hbstack/footer v0.2.1 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.0 // indirect
-	github.com/hbstack/header v0.4.3 // indirect
+	github.com/hbstack/header v0.4.4 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.5 // indirect
 	github.com/hbstack/header/modules/search v0.1.13 // indirect
 	github.com/hbstack/header/modules/socials v0.1.6 // indirect
