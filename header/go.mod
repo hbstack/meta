@@ -7,7 +7,7 @@ require (
 	github.com/hbstack/header v0.6.0 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.8 // indirect
 	github.com/hbstack/header/modules/search v0.1.16 // indirect
-	github.com/hbstack/header/modules/socials v0.1.9 // indirect
+	github.com/hbstack/header/modules/socials v0.1.10 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.7 // indirect
 	github.com/hugomods/base v0.1.0 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
