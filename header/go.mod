@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003 // indirect
 	github.com/hbstack/header v0.7.1 // indirect
-	github.com/hbstack/header/modules/language-picker v0.1.9 // indirect
+	github.com/hbstack/header/modules/language-picker v0.1.10 // indirect
 	github.com/hbstack/header/modules/search v0.1.17 // indirect
 	github.com/hbstack/header/modules/socials v0.1.12 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.9 // indirect
