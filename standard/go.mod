@@ -13,8 +13,8 @@ require (
 	github.com/hbstack/blog/modules/related-posts v0.1.10 // indirect
 	github.com/hbstack/footer v0.2.2 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.1 // indirect
-	github.com/hbstack/header v0.7.1 // indirect
-	github.com/hbstack/header/modules/language-picker v0.1.10 // indirect
+	github.com/hbstack/header v0.8.0 // indirect
+	github.com/hbstack/header/modules/language-picker v0.1.11 // indirect
 	github.com/hbstack/header/modules/search v0.1.18 // indirect
 	github.com/hbstack/header/modules/socials v0.1.13 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.10 // indirect
