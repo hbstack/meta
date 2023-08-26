@@ -31,15 +31,13 @@
             "component": "header"
         },
         "recommended": {
-            "component": "recommended",
-            "separate-pull-requests": true
+            "component": "recommended"
         },
         "seo": {
             "component": "seo"
         },
         "standard": {
-            "component": "standard",
-            "separate-pull-requests": true
+            "component": "standard"
         }
     }
 }
