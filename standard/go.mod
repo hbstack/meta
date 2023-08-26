@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/KaTex/KaTex v0.16.8 // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003 // indirect
-	github.com/hbstack/blog v0.15.5 // indirect
+	github.com/hbstack/blog v0.15.6 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.10 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.5 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.6 // indirect
