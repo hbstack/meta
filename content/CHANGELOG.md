@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.5](https://github.com/hbstack/meta/compare/content/v0.4.4...content/v0.4.5) (2023-08-26)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hugomods/hugopress to v0.2.1 ([b2c597e](https://github.com/hbstack/meta/commit/b2c597efdc9c9098e5a5ffe015a1834681a0778d))
+
 ## [0.4.4](https://github.com/hbstack/meta/compare/content/v0.4.3...content/v0.4.4) (2023-07-04)
 
 
