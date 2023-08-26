@@ -8,9 +8,9 @@ require (
 	github.com/hbstack/blog/modules/breadcrumb v0.1.10 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.5 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.6 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.2.8 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.2.9 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.10 // indirect
-	github.com/hbstack/footer v0.2.1 // indirect
+	github.com/hbstack/footer v0.2.2 // indirect
 	github.com/hbstack/header v0.8.1 // indirect
 	github.com/hugomods/base v0.1.0 // indirect
 	github.com/hugomods/hugopress v0.2.1 // indirect
