@@ -5,9 +5,9 @@ go 1.19
 require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003 // indirect
 	github.com/hbstack/blog v0.15.6 // indirect
-	github.com/hbstack/blog/modules/breadcrumb v0.1.10 // indirect
-	github.com/hbstack/blog/modules/featured-image v0.2.5 // indirect
-	github.com/hbstack/blog/modules/heading-sign v0.1.6 // indirect
+	github.com/hbstack/blog/modules/breadcrumb v0.1.11 // indirect
+	github.com/hbstack/blog/modules/featured-image v0.2.10 // indirect
+	github.com/hbstack/blog/modules/heading-sign v0.1.12 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.9 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.11 // indirect
 	github.com/hbstack/footer v0.2.2 // indirect

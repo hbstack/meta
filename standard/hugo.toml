@@ -1,17 +1,77 @@
 [[module.imports]]
-path = "github.com/hbstack/meta/blog"
+path = "github.com/hbstack/blog"
 
 [[module.imports]]
-path = "github.com/hbstack/meta/content"
+path = "github.com/hbstack/blog/modules/breadcrumb"
 
 [[module.imports]]
-path = "github.com/hbstack/meta/footer"
+path = "github.com/hbstack/blog/modules/featured-image"
 
 [[module.imports]]
-path = "github.com/hbstack/meta/header"
+path = "github.com/hbstack/blog/modules/heading-sign"
 
 [[module.imports]]
-path = "github.com/hbstack/meta/seo"
+path = "github.com/hbstack/blog/modules/post-nav"
+
+[[module.imports]]
+path = "github.com/hbstack/blog/modules/related-posts"
+
+[[module.imports]]
+path = "github.com/hbstack/mermaid"
+
+[[module.imports]]
+path = "github.com/hugomods/katex"
+
+[[module.imports]]
+path = "github.com/hbstack/bootstrap"
+
+[[module.imports]]
+path = "github.com/hugomods/images"
+
+[[module.imports]]
+path = "github.com/hugomods/shortcodes"
+
+[[module.imports]]
+path = "github.com/hbstack/footer"
+
+[[module.imports]]
+path = "github.com/hbstack/footer/modules/socials"
+
+[[module.imports]]
+path = "github.com/hbstack/header"
+
+[[module.imports]]
+path = "github.com/hbstack/header/modules/language-picker"
+
+[[module.imports]]
+path = "github.com/hbstack/header/modules/socials"
+
+[[module.imports]]
+path = "github.com/hbstack/header/modules/search"
+
+[[module.imports]]
+path = "github.com/hbstack/header/modules/theme-toggle"
+
+[[module.imports]]
+path = "github.com/hugomods/seo/modules/alternatives"
+
+[[module.imports]]
+path = "github.com/hugomods/seo/modules/base"
+
+[[module.imports]]
+path = "github.com/hugomods/seo/modules/favicons"
+
+[[module.imports]]
+path = "github.com/hugomods/seo/modules/open-graph"
+
+[[module.imports]]
+path = "github.com/hugomods/seo/modules/schema"
+
+[[module.imports]]
+path = "github.com/hugomods/seo/modules/translations"
+
+[[module.imports]]
+path = "github.com/hugomods/seo/modules/twitter-cards"
 
 [[module.imports]]
 path = "github.com/hbstack/syntax-highlighting/styles/gruvbox"
