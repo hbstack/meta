@@ -35,8 +35,10 @@ github.com/hbstack/docs/modules/heading-sign v0.1.5 h1:d1hgQEAMSUyoqKUUSQiRNRBkw
 github.com/hbstack/docs/modules/heading-sign v0.1.5/go.mod h1:OBBwUztXZ8xhOtBoipEBvt7D73NQ5Ic0piL2eU89qag=
 github.com/hbstack/footer v0.2.2 h1:lut4Z3u1PYY18OMoJcRL1/REl/bb3ItycAkxI3jHUEY=
 github.com/hbstack/footer v0.2.2/go.mod h1:ap949YxPpXEhcYPoZt2RTCS3tfeEMwsdRIqSvCrM2No=
+github.com/hbstack/footer v0.2.3/go.mod h1:83AHk2CsJmFjLu6Tz1z/indPsWFU3WGVb3EI/IX2g1k=
 github.com/hbstack/footer/modules/socials v0.2.1 h1:4BiJ2o7hX9K/HNa+tuiUWHkBG1NBhmT8r99SIrVKu1w=
 github.com/hbstack/footer/modules/socials v0.2.1/go.mod h1:7UoIgqN0ADAwxt3p/VAMeBdcFZeiuQtOLMGMB2g6Q14=
+github.com/hbstack/footer/modules/socials v0.2.2/go.mod h1:sDb2P7iE/bVOwsPBICE0g7PSt8jzHvpTMSq5yzy4Odw=
 github.com/hbstack/header v0.8.1 h1:VGYiT93z3YWg8X2FLXUv/TglHzUJiLzVxduH+rzFchw=
 github.com/hbstack/header v0.8.1/go.mod h1:ZnACw6m73xB7Z5TUTyjErh6yURnMDDSWj8BVVrR9/+M=
 github.com/hbstack/header/modules/language-picker v0.1.12 h1:rbhZwVkTQI6OL8aUsmnOk8LSIXON1gZifN8tfbrI1zA=
