@@ -14,6 +14,7 @@ github.com/hbstack/docs/modules/heading-sign v0.1.5 h1:d1hgQEAMSUyoqKUUSQiRNRBkw
 github.com/hbstack/docs/modules/heading-sign v0.1.5/go.mod h1:OBBwUztXZ8xhOtBoipEBvt7D73NQ5Ic0piL2eU89qag=
 github.com/hbstack/hb v0.7.0 h1:z+pbW5pdDefLH5kJ13wDXSSjrOhcvNIiCNXv1ui7itc=
 github.com/hbstack/hb v0.7.0/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
+github.com/hbstack/hb v0.7.1/go.mod h1:S/08mx1tK6yxjQIkSqvpqG8HrBzMBDJq1WC5QjXW9p0=
 github.com/hbstack/pagination v0.2.0 h1:1TKy5bLrwkIxHJPLjK+k6Ws9ZO6Lg2ppP+Z1iVvDoAw=
 github.com/hbstack/pagination v0.2.0/go.mod h1:IwCFgkfkXMVjudqJ8nHcwQLlXmwx0MRtNFOCd+0I3Vw=
 github.com/hbstack/socials v0.3.0 h1:NZnkOZ28H+ToYuM5gjCzVwBjGrG4l8PLQDf+tBIbsCg=
