@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.6](https://github.com/hbstack/meta/compare/footer/v0.2.5...footer/v0.2.6) (2023-08-29)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/footer/modules/socials to v0.2.2 ([fe696d4](https://github.com/hbstack/meta/commit/fe696d46fceecc45ca055fe38f61916dd443ecde))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.11 ([7685c4a](https://github.com/hbstack/meta/commit/7685c4a1e8d8c04d94250824c965a04d37a24005))
+
 ## [0.2.5](https://github.com/hbstack/meta/compare/footer/v0.2.4...footer/v0.2.5) (2023-08-26)
 
 
