@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.6](https://github.com/hbstack/meta/compare/content/v0.4.5...content/v0.4.6) (2023-08-29)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hugomods/bootstrap to v0.10.0 ([23c087a](https://github.com/hbstack/meta/commit/23c087a4f477733794d1ff39e35724b1766f98db))
+
 ## [0.4.5](https://github.com/hbstack/meta/compare/content/v0.4.4...content/v0.4.5) (2023-08-26)
 
 
