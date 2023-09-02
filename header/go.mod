@@ -6,7 +6,7 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20003 // indirect
 	github.com/hbstack/header v0.9.0 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.14 // indirect
-	github.com/hbstack/header/modules/search v0.1.22 // indirect
+	github.com/hbstack/header/modules/search v0.1.24 // indirect
 	github.com/hbstack/header/modules/socials v0.1.16 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.12 // indirect
 	github.com/hugomods/base v0.1.0 // indirect
