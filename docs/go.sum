@@ -19,6 +19,7 @@ github.com/hbstack/pagination v0.2.0 h1:1TKy5bLrwkIxHJPLjK+k6Ws9ZO6Lg2ppP+Z1iVvD
 github.com/hbstack/pagination v0.2.0/go.mod h1:IwCFgkfkXMVjudqJ8nHcwQLlXmwx0MRtNFOCd+0I3Vw=
 github.com/hbstack/socials v0.3.0 h1:NZnkOZ28H+ToYuM5gjCzVwBjGrG4l8PLQDf+tBIbsCg=
 github.com/hbstack/socials v0.3.0/go.mod h1:lc7XsL6iBSZqi8k3WImGqy4v6vMlZmlv+pbLWCbe4GE=
+github.com/hbstack/socials v0.4.0/go.mod h1:G6kI6asbxorXM2lXZgAdqWb2BvNX2CNJP4Ek6x8wwRs=
 github.com/hugomods/gravatar v0.2.0 h1:642HNhGN7Mw7qefNcUFJKzLoT2zJKt4IQkrS53mIUfA=
 github.com/hugomods/gravatar v0.2.0/go.mod h1:oATWuh5u2XUK/ZKzOD0VEP5I/TZfVZwplTyhT61Q4Fc=
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
