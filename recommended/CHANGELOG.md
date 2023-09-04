@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.8](https://github.com/hbstack/meta/compare/recommended/v0.2.7...recommended/v0.2.8) (2023-09-03)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/socials to v0.4.0 ([0c2a450](https://github.com/hbstack/meta/commit/0c2a450cc6224bff503a9ee345e435f3e14f6dfd))
+* **deps:** update module github.com/hugomods/shortcodes to v0.11.0 ([8ddc2af](https://github.com/hbstack/meta/commit/8ddc2af3d9477b9ccfd1dcf0be9279c8abf889ca))
+* **deps:** update module github.com/hugomods/simple-icons to v9.13.0+incompatible ([e5d3b0c](https://github.com/hbstack/meta/commit/e5d3b0c53c6a362af49212b388cde8522e592ee0))
+
 ## [0.2.7](https://github.com/hbstack/meta/compare/recommended/v0.2.6...recommended/v0.2.7) (2023-09-02)
 
 

@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.9](https://github.com/hbstack/meta/compare/header/v0.2.8...header/v0.2.9) (2023-09-03)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/header/modules/theme-toggle to v0.1.14 ([441d4b1](https://github.com/hbstack/meta/commit/441d4b1d92fd43d75b0efeec25656756ba5d3664))
+* **deps:** update module github.com/hugomods/simple-icons to v9.13.0+incompatible ([e5d3b0c](https://github.com/hbstack/meta/commit/e5d3b0c53c6a362af49212b388cde8522e592ee0))
+
 ## [0.2.8](https://github.com/hbstack/meta/compare/header/v0.2.7...header/v0.2.8) (2023-09-02)
 
 
