@@ -16,7 +16,7 @@ require (
 	github.com/hbstack/header v0.9.0 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.14 // indirect
 	github.com/hbstack/header/modules/search v0.1.24 // indirect
-	github.com/hbstack/header/modules/socials v0.1.18 // indirect
+	github.com/hbstack/header/modules/socials v0.1.19 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.14 // indirect
 	github.com/hbstack/mermaid v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
