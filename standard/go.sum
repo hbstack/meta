@@ -23,6 +23,7 @@ github.com/hbstack/bootstrap v0.2.0 h1:pHZ1KQ0HHwhHFbgzZ401kMSxkS7Tg0I/X002SD6WH
 github.com/hbstack/bootstrap v0.2.0/go.mod h1:BqrUe89qxDkc8kxJ4iaK/XZxzZrWhlGloOFJfcNxAUU=
 github.com/hbstack/footer v0.2.3 h1:eO3RYWFVKjZCfv1b7CTPwWiWGiPJYB5GzpSitFVLif0=
 github.com/hbstack/footer v0.2.3/go.mod h1:83AHk2CsJmFjLu6Tz1z/indPsWFU3WGVb3EI/IX2g1k=
+github.com/hbstack/footer v0.2.4/go.mod h1:L0ZYdYRROlGUGLRA9QchkYeByHIff/EU4WKRdAUW+E8=
 github.com/hbstack/footer/modules/socials v0.2.2 h1:9aEg0LXDpvHXcpCBSssM5XLjDPW/Skz7xabz2ybEbMA=
 github.com/hbstack/footer/modules/socials v0.2.2/go.mod h1:sDb2P7iE/bVOwsPBICE0g7PSt8jzHvpTMSq5yzy4Odw=
 github.com/hbstack/header v0.9.0 h1:lhFJYaaOSuuQ7/vavg9pULZ/po2JcoZrAiISh9Iqw70=
