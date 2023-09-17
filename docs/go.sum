@@ -31,6 +31,7 @@ github.com/hugomods/gravatar v0.2.0/go.mod h1:oATWuh5u2XUK/ZKzOD0VEP5I/TZfVZwplT
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
 github.com/hugomods/icons/vendors/bootstrap v0.5.0 h1:CHEGk677heq2kJZa7XsGHRc3Hwizl9NFkmNw146OVm0=
 github.com/hugomods/icons/vendors/bootstrap v0.5.0/go.mod h1:kfC17VWV+tNi6PGF4AY7CJBBa1/HEgWxCYq2kNOdcdI=
+github.com/hugomods/icons/vendors/bootstrap v0.5.1/go.mod h1:tFEoO7zed/8FDT6LeKLGnzDbx7D8HK7ZaLshnF0RYjQ=
 github.com/hugomods/images v0.7.0 h1:NEGgCSrh1YuHGmTAL9wDAKLdXL4WU6Nw4BfkampJxyM=
 github.com/hugomods/images v0.7.0/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
 github.com/hugomods/simple-icons v9.11.0+incompatible h1:XHVMjL5Nx0rY6KWuYH9a/9SoE5wB/i0gAfAvU513ApE=
