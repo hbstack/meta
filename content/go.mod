@@ -7,7 +7,7 @@ require (
 	github.com/hbstack/bootstrap v0.2.0 // indirect
 	github.com/hbstack/mermaid v0.1.0 // indirect
 	github.com/hugomods/base v0.1.0 // indirect
-	github.com/hugomods/bootstrap v0.11.3 // indirect
+	github.com/hugomods/bootstrap v0.12.0 // indirect
 	github.com/hugomods/hugopress v0.2.1 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.1 // indirect
 	github.com/hugomods/images v0.7.0 // indirect
