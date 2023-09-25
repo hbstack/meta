@@ -21,7 +21,7 @@ require (
 	github.com/hbstack/docs/modules/featured-image v0.2.5 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.6 // indirect
 	github.com/hbstack/footer v0.2.5 // indirect
-	github.com/hbstack/footer/modules/socials v0.2.2 // indirect
+	github.com/hbstack/footer/modules/socials v0.2.4 // indirect
 	github.com/hbstack/header v0.10.0 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.15 // indirect
 	github.com/hbstack/header/modules/search v0.1.25 // indirect
@@ -52,7 +52,7 @@ require (
 	github.com/hugomods/seo/modules/translations v0.1.0 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.0 // indirect
 	github.com/hugomods/shortcodes v0.12.1 // indirect
-	github.com/hugomods/simple-icons v9.14.0+incompatible // indirect
+	github.com/hugomods/simple-icons v9.16.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v7.1.1+incompatible // indirect
