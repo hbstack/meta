@@ -30,6 +30,7 @@ github.com/hbstack/header/modules/search v0.1.27/go.mod h1:2xQ5lbiNTgWFFbUSMx0ed
 github.com/hbstack/header/modules/search v0.1.28/go.mod h1:DEShhkQEvh36507BdXXLnAB6pNjNoDYC17EwfT4Al08=
 github.com/hbstack/header/modules/socials v0.1.23 h1:TTqjllJzzakPyqiwF2Mp7Ft82xy7PAYwZDOGErSPPMQ=
 github.com/hbstack/header/modules/socials v0.1.23/go.mod h1:wBLG4VnCNtVTD5XNGy1iwFsemCdTmroDV6+Ootoo4iY=
+github.com/hbstack/header/modules/socials v0.1.24/go.mod h1:UU4FJT0/cqi/z4ttmBJlIQm9BdpEvuBaErmEBDVlPjc=
 github.com/hbstack/header/modules/theme-toggle v0.1.17 h1:4HuMpd77BQZ49swamC1y6S2TH/3+dHiD+AXIqB1ULjU=
 github.com/hbstack/header/modules/theme-toggle v0.1.17/go.mod h1:Wv12j/hd0VYgif8ecd/l2JXXQpynOu+AUSvSBiFtKVU=
 github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I=
