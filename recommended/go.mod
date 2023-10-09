@@ -11,7 +11,7 @@ require (
 	github.com/hbstack/blog/modules/featured-image v0.2.15 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.17 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.14 // indirect
-	github.com/hbstack/blog/modules/related-posts v0.1.15 // indirect
+	github.com/hbstack/blog/modules/related-posts v0.1.16 // indirect
 	github.com/hbstack/bootstrap v0.2.0 // indirect
 	github.com/hbstack/carousel v0.2.3 // indirect
 	github.com/hbstack/code-block-panel v0.1.1 // indirect
