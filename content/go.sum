@@ -7,6 +7,7 @@ github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I
 github.com/hbstack/mermaid v0.1.0/go.mod h1:dQAfzX1SA4b3k5ytA8WPR5luxjX4ii7EdtoRsr8WLNw=
 github.com/hugomods/base v0.1.0 h1:3o9Y85BvXHjkYzZfswM/EtthQ8GOYKN8aXHkIWqu3/8=
 github.com/hugomods/base v0.1.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
+github.com/hugomods/base v0.2.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/bootstrap v0.13.0 h1:0xtsCsx1Kek4iYpQHX1LLxHPYt/f7qABEGv1qPaWBSI=
 github.com/hugomods/bootstrap v0.13.0/go.mod h1:7IkovSZw/9Grx2bgcTMielY5vvLjPBzy5x/bPIA1BlY=
 github.com/hugomods/hugopress v0.2.1 h1:coYEPHUNLuTxKrVWVIPgs0lbZ6yrqxdWjgSriNFuBVo=
