@@ -11,6 +11,7 @@ github.com/hbstack/blog/modules/breadcrumb v0.1.13/go.mod h1:d1fkB4UEG9ncXkAUKYD
 github.com/hbstack/blog/modules/breadcrumb v0.1.14/go.mod h1:QnT56HSOtIE3fTNkAMXWp6Ts1um+zWDlhdLNdGpN4zo=
 github.com/hbstack/blog/modules/breadcrumb v0.1.15/go.mod h1:Bx0kizY5MaRUu+HpLiq76u425dfBFZce41ls1NZRqz4=
 github.com/hbstack/blog/modules/breadcrumb v0.1.16/go.mod h1:IDJYZB2NaalO9aOFt06WZROsA96Mo9L7pUIG3trBt0I=
+github.com/hbstack/blog/modules/breadcrumb v0.1.17/go.mod h1:LVnjsdno11DPcJoWH3xnhrHReeiX5zP+vJRoFo+DmDQ=
 github.com/hbstack/blog/modules/featured-image v0.2.12 h1:8/r88r+AArb5GG9/1ZOaGDaJQy3fUDNPQ3SadbyLEec=
 github.com/hbstack/blog/modules/featured-image v0.2.12/go.mod h1:3g1A/4TgrLaT8cZX1lsdgGRrjN+IQHy2Mt1ig3+NEKA=
 github.com/hbstack/blog/modules/featured-image v0.2.13/go.mod h1:DgyeWjLB+461yfkwgqPcmiSISH/2JwHyv12+oaM3u9g=
@@ -40,6 +41,7 @@ github.com/hbstack/header v0.11.3/go.mod h1:MkFJjAqVs/pgOEBjdCzBTdjT6q43It0PGvZh
 github.com/hbstack/header v0.12.0/go.mod h1:MkFJjAqVs/pgOEBjdCzBTdjT6q43It0PGvZh56OkdB4=
 github.com/hugomods/base v0.1.0 h1:3o9Y85BvXHjkYzZfswM/EtthQ8GOYKN8aXHkIWqu3/8=
 github.com/hugomods/base v0.1.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
+github.com/hugomods/base v0.2.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/hugopress v0.2.1 h1:coYEPHUNLuTxKrVWVIPgs0lbZ6yrqxdWjgSriNFuBVo=
 github.com/hugomods/hugopress v0.2.1/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
