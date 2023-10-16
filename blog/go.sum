@@ -6,12 +6,14 @@ github.com/hbstack/blog v0.15.8/go.mod h1:eyO2jY0S5VC7D2DPAW80c0YEAj8+8fyRmKvlKB
 github.com/hbstack/blog v0.15.9/go.mod h1:CGEILF/dAKWnkXru0R/eEDikXMPxvBFeOTvFZsg2L/s=
 github.com/hbstack/blog v0.16.0/go.mod h1:MZiQPU9CMlM/fKtCihoKRD7xR+243P9LymQ9R+JEKcQ=
 github.com/hbstack/blog v0.16.1/go.mod h1:8sBP+PIq/hKN6Y99DuA3jup+aFUl/bbB8okNgwERNOs=
+github.com/hbstack/blog v0.17.0/go.mod h1:Bgd+QmsuBWQQs19OsYSJ08a4Bjc74Ntbda+jROslwZU=
 github.com/hbstack/blog/modules/breadcrumb v0.1.13 h1:OZKnRKkAHn+61o51i8yT+djI2UYeguxaBNJUOfmWxXE=
 github.com/hbstack/blog/modules/breadcrumb v0.1.13/go.mod h1:d1fkB4UEG9ncXkAUKYDDz3Foib+v4q5wW5sroIpXmQc=
 github.com/hbstack/blog/modules/breadcrumb v0.1.14/go.mod h1:QnT56HSOtIE3fTNkAMXWp6Ts1um+zWDlhdLNdGpN4zo=
 github.com/hbstack/blog/modules/breadcrumb v0.1.15/go.mod h1:Bx0kizY5MaRUu+HpLiq76u425dfBFZce41ls1NZRqz4=
 github.com/hbstack/blog/modules/breadcrumb v0.1.16/go.mod h1:IDJYZB2NaalO9aOFt06WZROsA96Mo9L7pUIG3trBt0I=
 github.com/hbstack/blog/modules/breadcrumb v0.1.17/go.mod h1:LVnjsdno11DPcJoWH3xnhrHReeiX5zP+vJRoFo+DmDQ=
+github.com/hbstack/blog/modules/breadcrumb v0.1.19/go.mod h1:A006/NK+6qiL/2lQ42CA9rVw00St28G2tGCQOIFJSqA=
 github.com/hbstack/blog/modules/featured-image v0.2.12 h1:8/r88r+AArb5GG9/1ZOaGDaJQy3fUDNPQ3SadbyLEec=
 github.com/hbstack/blog/modules/featured-image v0.2.12/go.mod h1:3g1A/4TgrLaT8cZX1lsdgGRrjN+IQHy2Mt1ig3+NEKA=
 github.com/hbstack/blog/modules/featured-image v0.2.13/go.mod h1:DgyeWjLB+461yfkwgqPcmiSISH/2JwHyv12+oaM3u9g=
