@@ -6,14 +6,14 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/hbstack/back-to-top v0.1.2 // indirect
 	github.com/hbstack/bigger-picture v0.9.2 // indirect
-	github.com/hbstack/blog v0.16.1 // indirect
-	github.com/hbstack/blog/modules/breadcrumb v0.1.17 // indirect
+	github.com/hbstack/blog v0.17.0 // indirect
+	github.com/hbstack/blog/modules/breadcrumb v0.1.19 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.16 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.18 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.15 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.1.17 // indirect
 	github.com/hbstack/bootstrap v0.2.0 // indirect
-	github.com/hbstack/carousel v0.2.3 // indirect
+	github.com/hbstack/carousel v0.2.4 // indirect
 	github.com/hbstack/code-block-panel v0.1.1 // indirect
 	github.com/hbstack/docs v0.6.4 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.6 // indirect
