@@ -9,7 +9,7 @@ require (
 	github.com/hbstack/blog/modules/featured-image v0.2.19 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.21 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.3.2 // indirect
-	github.com/hbstack/blog/modules/related-posts v0.2.1 // indirect
+	github.com/hbstack/blog/modules/related-posts v0.2.2 // indirect
 	github.com/hbstack/footer v0.2.5 // indirect
 	github.com/hbstack/header v0.12.0 // indirect
 	github.com/hugomods/base v0.3.0 // indirect
