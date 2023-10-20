@@ -8,7 +8,7 @@ require (
 	github.com/hbstack/blog/modules/breadcrumb v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.20 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.22 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.3.2 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.3.3 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.2 // indirect
 	github.com/hbstack/footer v0.2.5 // indirect
 	github.com/hbstack/header v0.12.0 // indirect
