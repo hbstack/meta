@@ -9,7 +9,7 @@ require (
 	github.com/hbstack/docs/modules/breadcrumb v0.1.8 // indirect
 	github.com/hbstack/docs/modules/doc-nav v0.3.1 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.7 // indirect
-	github.com/hbstack/docs/modules/heading-sign v0.1.7 // indirect
+	github.com/hbstack/docs/modules/heading-sign v0.1.8 // indirect
 	github.com/hbstack/hb v0.7.1 // indirect
 	github.com/hbstack/pagination v0.2.1 // indirect
 	github.com/hbstack/socials v0.6.0 // indirect
