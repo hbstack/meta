@@ -17,7 +17,7 @@ require (
 	github.com/hbstack/code-block-panel v0.1.1 // indirect
 	github.com/hbstack/docs v0.7.0 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.7 // indirect
-	github.com/hbstack/docs/modules/doc-nav v0.2.5 // indirect
+	github.com/hbstack/docs/modules/doc-nav v0.3.0 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.6 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.7 // indirect
 	github.com/hbstack/footer v0.2.5 // indirect
