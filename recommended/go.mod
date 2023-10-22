@@ -25,7 +25,7 @@ require (
 	github.com/hbstack/header v0.12.0 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.21 // indirect
 	github.com/hbstack/header/modules/search v0.1.31 // indirect
-	github.com/hbstack/header/modules/socials v0.1.26 // indirect
+	github.com/hbstack/header/modules/socials v0.1.27 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.1.20 // indirect
 	github.com/hbstack/mermaid v0.1.0 // indirect
 	github.com/hbstack/noscript v0.3.0 // indirect
@@ -34,7 +34,7 @@ require (
 	github.com/hbstack/scrollbar v0.1.0 // indirect
 	github.com/hbstack/search v0.1.7 // indirect
 	github.com/hbstack/slide v0.2.0 // indirect
-	github.com/hbstack/socials v0.6.0 // indirect
+	github.com/hbstack/socials v0.7.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 // indirect
 	github.com/hugomods/base v0.3.0 // indirect
