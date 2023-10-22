@@ -110,6 +110,7 @@ github.com/hbstack/header/modules/socials v0.1.23 h1:TTqjllJzzakPyqiwF2Mp7Ft82xy
 github.com/hbstack/header/modules/socials v0.1.23/go.mod h1:wBLG4VnCNtVTD5XNGy1iwFsemCdTmroDV6+Ootoo4iY=
 github.com/hbstack/header/modules/socials v0.1.24/go.mod h1:UU4FJT0/cqi/z4ttmBJlIQm9BdpEvuBaErmEBDVlPjc=
 github.com/hbstack/header/modules/socials v0.1.26/go.mod h1:ppyvjpy6wg/WxgDWSHXATx51/ykpTgLpXAq3BhMqT7A=
+github.com/hbstack/header/modules/socials v0.1.27/go.mod h1:5UmG5kRAdSeWSc7UuN+voFPq3hsKqMXfFZH+D0PNMO8=
 github.com/hbstack/header/modules/theme-toggle v0.1.17 h1:4HuMpd77BQZ49swamC1y6S2TH/3+dHiD+AXIqB1ULjU=
 github.com/hbstack/header/modules/theme-toggle v0.1.17/go.mod h1:Wv12j/hd0VYgif8ecd/l2JXXQpynOu+AUSvSBiFtKVU=
 github.com/hbstack/header/modules/theme-toggle v0.1.18/go.mod h1:QFRunk14ktM/oYuYxlKOnJvw0ZPFTiPnSSbWwSYLLc4=
@@ -131,6 +132,7 @@ github.com/hbstack/slide v0.2.0 h1:0D8Vt4bxtFCNpozRu0WDMz0kgOy60Gk1aJKAZSPUnik=
 github.com/hbstack/slide v0.2.0/go.mod h1:7fBmuBpoxrmP+dQPArVyX80LTQOWCm8z7Rf38nzDlzE=
 github.com/hbstack/socials v0.6.0 h1:vnDZLpQmA2tJAHQeOXuFtlzMIoE8rUKahiBRuhkeg3w=
 github.com/hbstack/socials v0.6.0/go.mod h1:vOckvjx7Tvhg+QJ4rKR7lTj3GytBMACj1Q43V459J5Q=
+github.com/hbstack/socials v0.7.0/go.mod h1:0IViwiReyAknJBIXFqhThn6m13jbib6lLFYfMIWZYzY=
 github.com/hbstack/syntax-highlighting v0.1.0 h1:WxdhNgCktllNKQDqu1BmLmg9dsi77/dXIlcdQ8KZZI0=
 github.com/hbstack/syntax-highlighting v0.1.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 h1:lGH8nqOU/+3yzHIk5s1nTrzHDImEnvLkr/0viuPfx3Y=
