@@ -71,6 +71,7 @@ github.com/hbstack/header/modules/language-picker v0.1.17/go.mod h1:nbdkbAXd0DlN
 github.com/hbstack/header/modules/language-picker v0.1.18/go.mod h1:NktjHB9iRkmFH5rZ1XXPc7D40mcMOipDmKyCoxwGfxM=
 github.com/hbstack/header/modules/language-picker v0.1.19/go.mod h1:Sz/xCTaw7eL8mU8wL+d/sIpN7sjJnOGyd1VsR1iio9o=
 github.com/hbstack/header/modules/language-picker v0.1.20/go.mod h1:aNct66xWjiQoxjNiUIGDA0gwvjPyyRQ5Qdww+BCPMuw=
+github.com/hbstack/header/modules/language-picker v0.1.21/go.mod h1:vlKi+qkfV0AVXl910GTj432RPrvIIUgTbejBO/vahM4=
 github.com/hbstack/header/modules/search v0.1.27 h1:SXkIQg4jfFJKX+bvFtoS69j6TxVQ0czgrWAISesB14E=
 github.com/hbstack/header/modules/search v0.1.27/go.mod h1:2xQ5lbiNTgWFFbUSMx0edktKhwtJs59wCwppwABPwQo=
 github.com/hbstack/header/modules/search v0.1.28/go.mod h1:DEShhkQEvh36507BdXXLnAB6pNjNoDYC17EwfT4Al08=
