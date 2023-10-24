@@ -94,6 +94,7 @@ github.com/hbstack/docs/modules/heading-sign v0.1.7/go.mod h1:QVJkUvDKZML3q2sibE
 github.com/hbstack/docs/modules/heading-sign v0.1.8/go.mod h1:S139I7KQWECptWp28peWm1jWkrpLYYsLkxljYBm1MdY=
 github.com/hbstack/footer v0.2.5 h1:SBelvFYo8/IDPisprlZxEaR70PXcoHfjL+2mm1ir6/A=
 github.com/hbstack/footer v0.2.5/go.mod h1:L0ZYdYRROlGUGLRA9QchkYeByHIff/EU4WKRdAUW+E8=
+github.com/hbstack/footer v0.2.6/go.mod h1:MqglUBsBvlatiE5utMwLlnwHxLLOPe89zFmuD4HM37M=
 github.com/hbstack/footer/modules/socials v0.2.4 h1:O2wfIFWVzmGWiel+uT9ipGYhdIuqqaG34UZ3wwLDJ10=
 github.com/hbstack/footer/modules/socials v0.2.4/go.mod h1:pdjL1xFGtz9Tob7b8LtOtKWvY+krtH2zv0xF6v8JS1E=
 github.com/hbstack/header v0.11.0 h1:ASqPBW5S1oojfnpLq6JMXejEFSXsxRxABmOxzJmeDB8=
