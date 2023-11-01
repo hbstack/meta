@@ -11,6 +11,7 @@ github.com/hbstack/docs/modules/breadcrumb v0.1.6 h1:oShbIYWTKT+mOUyFVCep58U/cVJ
 github.com/hbstack/docs/modules/breadcrumb v0.1.6/go.mod h1:a+K5/jvdYPlSgragg2Og3qn1To/gwSR+vYxHKYFUJS8=
 github.com/hbstack/docs/modules/breadcrumb v0.1.7/go.mod h1:UjZ1pDFCob8cHTKXOoYMo6SwxBxWKaNc0KlQEaCBAbk=
 github.com/hbstack/docs/modules/breadcrumb v0.1.8/go.mod h1:1NKYNYa8Lw8KWY+3AoSiCOuDmBnRsWdC3iD9DK7QX1c=
+github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
 github.com/hbstack/docs/modules/doc-nav v0.2.5 h1:9JQbivRmauRsw2cyS1NRSbpoXIeMWQFafsZbYGWaQ00=
 github.com/hbstack/docs/modules/doc-nav v0.2.5/go.mod h1:pBJKJb0X6zhWKcCJcyG13yrd3HumoDptQATFP4teW9o=
 github.com/hbstack/docs/modules/doc-nav v0.3.0/go.mod h1:w9luWR/6FiLUs2tbjW4jD0/iG1rnndXZm76NmokhPNc=
