@@ -31,6 +31,7 @@ github.com/hbstack/header/modules/theme-toggle v0.1.17/go.mod h1:Wv12j/hd0VYgif8
 github.com/hbstack/header/modules/theme-toggle v0.1.18/go.mod h1:QFRunk14ktM/oYuYxlKOnJvw0ZPFTiPnSSbWwSYLLc4=
 github.com/hbstack/header/modules/theme-toggle v0.1.20/go.mod h1:JBLtu7vWYBtTE7GTiI7vR5BpdSbW4V025h6lEDNaSik=
 github.com/hbstack/header/modules/theme-toggle v0.2.0/go.mod h1:ljUc5lLVzRh7Fud+V0pob7c2CxIYPJe18++PGRAhLMI=
+github.com/hbstack/header/modules/theme-toggle v0.2.1/go.mod h1:Nwcp4+cyMYquF5Jgo2EvOREBypvTqCpFd/0zpYg/4FI=
 github.com/hugomods/base v0.1.0 h1:3o9Y85BvXHjkYzZfswM/EtthQ8GOYKN8aXHkIWqu3/8=
 github.com/hugomods/base v0.1.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/base v0.2.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
