@@ -16,6 +16,7 @@ github.com/hbstack/blog v0.20.0/go.mod h1:54hUZXBYs1tBUVH2ogb2xxXPLMLqTDHmLbwEXt
 github.com/hbstack/blog v0.21.0/go.mod h1:uOHUphJ8GjPeFHoGq50aEEsbiQ1OLiBsa8Qll0i3BuY=
 github.com/hbstack/blog v0.22.0/go.mod h1:/7lTlv0U75nnxemioHYmBEOW/rYYm+n0s/xjEWnW8FI=
 github.com/hbstack/blog v0.22.1/go.mod h1:/7lTlv0U75nnxemioHYmBEOW/rYYm+n0s/xjEWnW8FI=
+github.com/hbstack/blog v0.22.2/go.mod h1:chG+CUsXw7iAnB+PU1sYCRzEg/wGIbSDjycnuG0rus4=
 github.com/hbstack/blog/modules/breadcrumb v0.1.13 h1:OZKnRKkAHn+61o51i8yT+djI2UYeguxaBNJUOfmWxXE=
 github.com/hbstack/blog/modules/breadcrumb v0.1.13/go.mod h1:d1fkB4UEG9ncXkAUKYDDz3Foib+v4q5wW5sroIpXmQc=
 github.com/hbstack/blog/modules/breadcrumb v0.1.14/go.mod h1:QnT56HSOtIE3fTNkAMXWp6Ts1um+zWDlhdLNdGpN4zo=
