@@ -18,7 +18,7 @@ require (
 	github.com/hbstack/header/modules/search v0.1.32 // indirect
 	github.com/hbstack/header/modules/socials v0.1.28 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.3.1 // indirect
-	github.com/hbstack/mermaid v0.1.0 // indirect
+	github.com/hbstack/mermaid v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 // indirect
 	github.com/hugomods/base v0.4.0 // indirect
