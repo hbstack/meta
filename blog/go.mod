@@ -11,7 +11,7 @@ require (
 	github.com/hbstack/blog/modules/post-nav v0.3.5 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
 	github.com/hbstack/footer v0.2.8 // indirect
-	github.com/hbstack/header v0.12.2 // indirect
+	github.com/hbstack/header v0.12.3 // indirect
 	github.com/hugomods/base v0.4.0 // indirect
 	github.com/hugomods/hugopress v0.2.2 // indirect
 	github.com/hugomods/icons v0.6.0 // indirect
