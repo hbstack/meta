@@ -35,7 +35,7 @@ require (
 	github.com/hbstack/search v0.2.1 // indirect
 	github.com/hbstack/slide v0.3.1 // indirect
 	github.com/hbstack/socials v0.9.0 // indirect
-	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
+	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hugomods/base v0.4.0 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
