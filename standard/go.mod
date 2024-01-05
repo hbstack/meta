@@ -15,7 +15,7 @@ require (
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
 	github.com/hbstack/header v0.12.5 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.24 // indirect
-	github.com/hbstack/header/modules/search v0.1.34 // indirect
+	github.com/hbstack/header/modules/search v0.1.35 // indirect
 	github.com/hbstack/header/modules/socials v0.1.28 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.4.4 // indirect
 	github.com/hbstack/mermaid v0.2.1 // indirect
