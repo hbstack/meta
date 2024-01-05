@@ -22,7 +22,7 @@ require (
 	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
 	github.com/hbstack/footer v0.2.10 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
-	github.com/hbstack/header v0.12.5 // indirect
+	github.com/hbstack/header v0.12.6 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.24 // indirect
 	github.com/hbstack/header/modules/search v0.1.34 // indirect
 	github.com/hbstack/header/modules/socials v0.1.28 // indirect
