@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.3.6 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
-	github.com/hbstack/bootstrap v0.2.0 // indirect
+	github.com/hbstack/bootstrap v0.2.1 // indirect
 	github.com/hbstack/footer v0.2.10 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
 	github.com/hbstack/header v0.12.6 // indirect
@@ -22,7 +22,7 @@ require (
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hugomods/base v0.4.1 // indirect
-	github.com/hugomods/bootstrap v0.16.0 // indirect
+	github.com/hugomods/bootstrap v0.17.0 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/hugopress v0.2.3 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
