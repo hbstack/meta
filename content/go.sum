@@ -3,6 +3,7 @@ github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hbstack/bootstrap v0.2.0 h1:pHZ1KQ0HHwhHFbgzZ401kMSxkS7Tg0I/X002SD6WHak=
 github.com/hbstack/bootstrap v0.2.0/go.mod h1:BqrUe89qxDkc8kxJ4iaK/XZxzZrWhlGloOFJfcNxAUU=
+github.com/hbstack/bootstrap v0.2.1/go.mod h1:IvEwsxbTINkAbiwCC9Nqvuguh6V+Z/8Dg3eZ+TLwWHc=
 github.com/hbstack/mermaid v0.1.0 h1:T/3Az7xujbFmbC4r1tZGKTwt6GOcz/72yc2N9oFNU2I=
 github.com/hbstack/mermaid v0.1.0/go.mod h1:dQAfzX1SA4b3k5ytA8WPR5luxjX4ii7EdtoRsr8WLNw=
 github.com/hbstack/mermaid v0.2.0/go.mod h1:8teRAhZr8uLd/G5anYe0X7I2GLW5nCPZuE9lbrd12FI=
@@ -19,6 +20,7 @@ github.com/hugomods/bootstrap v0.14.0/go.mod h1:xibujTCci1NMBmQ8jzvxAYx2bKKQVWao
 github.com/hugomods/bootstrap v0.15.0/go.mod h1:uieaNCwD8ajNXjXmvCGoV0DluFraEn2h8WzXhwtmkig=
 github.com/hugomods/bootstrap v0.15.1/go.mod h1:HOdgrRHBMvH+MknbcdHwen50Y5ihT2n6wbvz3z628uE=
 github.com/hugomods/bootstrap v0.16.0/go.mod h1:HOdgrRHBMvH+MknbcdHwen50Y5ihT2n6wbvz3z628uE=
+github.com/hugomods/bootstrap v0.17.0/go.mod h1:EA5CtuNQX+aNkwEt1xae7clZ+4087KFXWZGE+2/f5oc=
 github.com/hugomods/hugopress v0.2.1 h1:coYEPHUNLuTxKrVWVIPgs0lbZ6yrqxdWjgSriNFuBVo=
 github.com/hugomods/hugopress v0.2.1/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/hugopress v0.2.2/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
