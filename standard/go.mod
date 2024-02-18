@@ -11,7 +11,7 @@ require (
 	github.com/hbstack/blog/modules/post-nav v0.3.6 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
 	github.com/hbstack/bootstrap v0.2.1 // indirect
-	github.com/hbstack/footer v0.2.10 // indirect
+	github.com/hbstack/footer v0.3.0 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
 	github.com/hbstack/header v0.13.0 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.24 // indirect
