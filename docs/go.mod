@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/docs/modules/doc-nav v0.3.4 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
-	github.com/hbstack/hb v0.11.0 // indirect
+	github.com/hbstack/hb v0.11.1 // indirect
 	github.com/hbstack/pagination v0.6.0 // indirect
 	github.com/hbstack/socials v0.9.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
