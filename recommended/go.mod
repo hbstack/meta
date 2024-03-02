@@ -20,7 +20,7 @@ require (
 	github.com/hbstack/docs/modules/doc-nav v0.3.4 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
-	github.com/hbstack/footer v0.3.0 // indirect
+	github.com/hbstack/footer v0.4.0 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
 	github.com/hbstack/header v0.14.1 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.24 // indirect
