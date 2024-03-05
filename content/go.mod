@@ -12,5 +12,5 @@ require (
 	github.com/hugomods/icons/vendors/bootstrap v0.5.5 // indirect
 	github.com/hugomods/images v0.9.2 // indirect
 	github.com/hugomods/katex v0.3.0 // indirect
-	github.com/hugomods/shortcodes v0.15.0 // indirect
+	github.com/hugomods/shortcodes v0.16.0 // indirect
 )
