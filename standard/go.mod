@@ -13,7 +13,7 @@ require (
 	github.com/hbstack/bootstrap v0.2.1 // indirect
 	github.com/hbstack/footer v0.4.0 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
-	github.com/hbstack/header v0.14.1 // indirect
+	github.com/hbstack/header v0.14.2 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.24 // indirect
 	github.com/hbstack/header/modules/search v0.1.35 // indirect
 	github.com/hbstack/header/modules/socials v0.1.28 // indirect
