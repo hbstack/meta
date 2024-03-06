@@ -175,6 +175,7 @@ github.com/hugomods/bootstrap v0.17.0/go.mod h1:EA5CtuNQX+aNkwEt1xae7clZ+4087KFX
 github.com/hugomods/bootstrap v0.17.1/go.mod h1:njaGUZ2BIU2ypcXqb3JPP/aETSXWG2vlh5qMgcYHk4s=
 github.com/hugomods/bootstrap v0.17.3/go.mod h1:SaJtm/hMN0giD5tCUzT+6UsphTIFpAspsZHisGA081U=
 github.com/hugomods/bootstrap v0.18.0/go.mod h1:bu4OlverXWsu/CbN0Uy8q/Mif3x3YjRK9VtZGKqIp7A=
+github.com/hugomods/bootstrap v0.18.2/go.mod h1:bu4OlverXWsu/CbN0Uy8q/Mif3x3YjRK9VtZGKqIp7A=
 github.com/hugomods/fuse-js v0.1.0 h1:CmWHBZANvjOP44RDNQNLntqlLf9GLqeM29jekxTNcPE=
 github.com/hugomods/fuse-js v0.1.0/go.mod h1:srCqvtBQR02HS/abTraDU4oINv1D3PljNPdexdoHhpo=
 github.com/hugomods/hugopress v0.2.1 h1:coYEPHUNLuTxKrVWVIPgs0lbZ6yrqxdWjgSriNFuBVo=
