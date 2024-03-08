@@ -22,7 +22,7 @@ require (
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hugomods/base v0.4.2 // indirect
-	github.com/hugomods/bootstrap v0.18.3 // indirect
+	github.com/hugomods/bootstrap v0.18.4 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/hugopress v0.2.3 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
