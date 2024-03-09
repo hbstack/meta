@@ -28,6 +28,7 @@ github.com/hugomods/bootstrap v0.18.0/go.mod h1:bu4OlverXWsu/CbN0Uy8q/Mif3x3YjRK
 github.com/hugomods/bootstrap v0.18.2/go.mod h1:bu4OlverXWsu/CbN0Uy8q/Mif3x3YjRK9VtZGKqIp7A=
 github.com/hugomods/bootstrap v0.18.3/go.mod h1:BP8RUSKYeBIxl3hqG28j8Nhlxx6pJhIK15Rpb/So9I0=
 github.com/hugomods/bootstrap v0.18.4/go.mod h1:Ss7a4kP2fqt6qMlU4XUunU0XDc8GAN8mJlOWwwdUJaA=
+github.com/hugomods/bootstrap v0.18.5/go.mod h1:Ss7a4kP2fqt6qMlU4XUunU0XDc8GAN8mJlOWwwdUJaA=
 github.com/hugomods/hugopress v0.2.1 h1:coYEPHUNLuTxKrVWVIPgs0lbZ6yrqxdWjgSriNFuBVo=
 github.com/hugomods/hugopress v0.2.1/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
 github.com/hugomods/hugopress v0.2.2/go.mod h1:CRYvr60xOkZOf4Atkuj+uEj2EH5pjJ39Ws3aJAkoMkA=
