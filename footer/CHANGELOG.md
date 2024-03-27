@@ -1,5 +1,43 @@
 # Changelog
 
+## [0.2.10](https://github.com/hbstack/meta/compare/footer/v0.2.9...footer/v0.2.10) (2024-03-27)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/footer to v0.2.10 ([5c7a143](https://github.com/hbstack/meta/commit/5c7a14366728d211409f94521024f2886d0d35b3))
+* **deps:** update module github.com/hbstack/footer to v0.2.6 ([53a215d](https://github.com/hbstack/meta/commit/53a215daa98f664e2629be47e1fe979f4258da73))
+* **deps:** update module github.com/hbstack/footer to v0.2.7 ([ffc3ac9](https://github.com/hbstack/meta/commit/ffc3ac9959a6307559ce165ff88f56d1964f5773))
+* **deps:** update module github.com/hbstack/footer to v0.2.8 ([96398f6](https://github.com/hbstack/meta/commit/96398f6740ba490b9cb860a03cb2aeaaff52de55))
+* **deps:** update module github.com/hbstack/footer to v0.2.9 ([4d0acc2](https://github.com/hbstack/meta/commit/4d0acc26732612fa5162587140fa9d54ff845cb4))
+* **deps:** update module github.com/hbstack/footer to v0.3.0 ([b939c18](https://github.com/hbstack/meta/commit/b939c18597e667d0034ce3c720531992ea3117ce))
+* **deps:** update module github.com/hbstack/footer to v0.4.0 ([ab10623](https://github.com/hbstack/meta/commit/ab10623ef1504fe479cad03b60be0626029eb17d))
+* **deps:** update module github.com/hbstack/footer/modules/socials to v0.2.5 ([54277b2](https://github.com/hbstack/meta/commit/54277b281d4839edd738005b17887cfbefcbc4b4))
+* **deps:** update module github.com/hugomods/hugopress to v0.2.2 ([b53ede0](https://github.com/hbstack/meta/commit/b53ede06d815d0d34370ddc5e06cf5fb6260e32b))
+* **deps:** update module github.com/hugomods/hugopress to v0.2.3 ([2a954f8](https://github.com/hbstack/meta/commit/2a954f8f5e5a52dbcfbe896674c0c9a1554c52ef))
+* **deps:** update module github.com/hugomods/icons/vendors/bootstrap to v0.5.2 ([8df1f93](https://github.com/hbstack/meta/commit/8df1f93692a23ac1dcb94f0546072d557c17cbb1))
+* **deps:** update module github.com/hugomods/icons/vendors/bootstrap to v0.5.3 ([d624c1f](https://github.com/hbstack/meta/commit/d624c1f54200fa8aedae1c51bcf19b7394eefee3))
+* **deps:** update module github.com/hugomods/icons/vendors/bootstrap to v0.5.4 ([32e8cc4](https://github.com/hbstack/meta/commit/32e8cc47700fb2a0ac83270a722fd92a5f2cfd0e))
+* **deps:** update module github.com/hugomods/icons/vendors/bootstrap to v0.5.5 ([c1cb607](https://github.com/hbstack/meta/commit/c1cb607327248c5fcc629b78f576e3687183f389))
+* **deps:** update module github.com/hugomods/icons/vendors/bootstrap to v0.5.6 ([4b95295](https://github.com/hbstack/meta/commit/4b95295bca2e95580dea8f9bd506661dab271670))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.19 ([115d74a](https://github.com/hbstack/meta/commit/115d74a9ae6ae4ca78f183b4ee40d267cdcf9eeb))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.20 ([eb2435e](https://github.com/hbstack/meta/commit/eb2435e39132e377a103f57d157d133a15769503))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.21 ([0e9ac46](https://github.com/hbstack/meta/commit/0e9ac46d5373cdfa136c62e1210a51acc16c2bf9))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.22 ([ff26fa9](https://github.com/hbstack/meta/commit/ff26fa9a48539f523e315b509fbf5273e1224fa7))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.23 ([17846a0](https://github.com/hbstack/meta/commit/17846a0cb8569c5c9dd8621df26b8217afc43bd7))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.24 ([43e81a9](https://github.com/hbstack/meta/commit/43e81a9840340c30554eb312fec0ac8ec86622ef))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.25 ([7b66551](https://github.com/hbstack/meta/commit/7b66551baafcb0dae10f4a5b0dd3dbff187cc6d3))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.26 ([06ee53c](https://github.com/hbstack/meta/commit/06ee53cd5ab12e5c20880c836d6f014a3a07c83e))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.27 ([f21b726](https://github.com/hbstack/meta/commit/f21b726dc9b6961ed5233715c3c10a49961a5768))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.28 ([372f62e](https://github.com/hbstack/meta/commit/372f62eec0e8dd3c260a08477841a197525ea40a))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.29 ([b979617](https://github.com/hbstack/meta/commit/b97961719f6d17736d119ee6abfb0c1a75e7da78))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.30 ([8070560](https://github.com/hbstack/meta/commit/807056033fcf589b1b1c9e85f15b929fa8fee971))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.31 ([499193d](https://github.com/hbstack/meta/commit/499193d32e888179019aec24db639b058a350ca9))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.32 ([be719e2](https://github.com/hbstack/meta/commit/be719e2f142074725559742313f940d64e69c35d))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.33 ([cfac415](https://github.com/hbstack/meta/commit/cfac41502eba8f10ced82cb768e9c19fce414e4d))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.34 ([25aabd7](https://github.com/hbstack/meta/commit/25aabd7c571bc82fa59d65bac591637fcfa10583))
+* **deps:** update module github.com/hugomods/icons/vendors/simple-icons to v1.0.35 ([3165bfb](https://github.com/hbstack/meta/commit/3165bfbc991bad0a1c708856571b3e4ec1fc005b))
+
 ## [0.2.9](https://github.com/hbstack/meta/compare/footer/v0.2.8...footer/v0.2.9) (2023-10-17)
 
 
