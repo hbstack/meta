@@ -27,7 +27,7 @@ require (
 	github.com/hugomods/hugopress v0.2.3 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
 	github.com/hugomods/icons v0.6.3 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.36 // indirect
+	github.com/hugomods/icons/vendors/simple-icons v1.0.37 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/katex v0.3.1 // indirect
 	github.com/hugomods/mermaid v0.1.1 // indirect
