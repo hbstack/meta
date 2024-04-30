@@ -12,7 +12,7 @@ require (
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
 	github.com/hbstack/bootstrap v0.2.1 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
-	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
+	github.com/hbstack/footer/modules/socials v0.3.0 // indirect
 	github.com/hbstack/header v0.14.3 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.24 // indirect
 	github.com/hbstack/header/modules/search v0.1.35 // indirect
