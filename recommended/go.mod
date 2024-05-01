@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/blog/modules/breadcrumb v0.1.22 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.3.7 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.3.8 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
 	github.com/hbstack/bootstrap v0.2.1 // indirect
 	github.com/hbstack/carousel v0.2.5 // indirect
