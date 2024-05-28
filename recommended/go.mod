@@ -28,7 +28,7 @@ require (
 	github.com/hbstack/header/modules/socials v0.2.0 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.5.0 // indirect
 	github.com/hbstack/mermaid v0.2.2 // indirect
-	github.com/hbstack/noscript v0.6.0 // indirect
+	github.com/hbstack/noscript v0.7.0 // indirect
 	github.com/hbstack/progress-bar v0.1.0 // indirect
 	github.com/hbstack/pwa v0.1.2 // indirect
 	github.com/hbstack/scrollbar v0.1.0 // indirect
