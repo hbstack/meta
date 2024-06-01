@@ -40,7 +40,7 @@ require (
 	github.com/hugomods/base v0.7.0 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
-	github.com/hugomods/hugopress v0.3.0 // indirect
+	github.com/hugomods/hugopress v0.4.0 // indirect
 	github.com/hugomods/icons v0.6.3 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/katex v0.3.1 // indirect
