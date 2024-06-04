@@ -7,7 +7,7 @@ require (
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
 	github.com/hbstack/blog v0.35.1 // indirect
-	github.com/hbstack/blog/modules/breadcrumb v0.1.22 // indirect
+	github.com/hbstack/blog/modules/breadcrumb v0.1.23 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.4.0 // indirect
