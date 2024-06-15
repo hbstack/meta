@@ -6,7 +6,7 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.35.2 // indirect
+	github.com/hbstack/blog v0.35.3 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.23 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
@@ -37,7 +37,7 @@ require (
 	github.com/hbstack/socials v0.16.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
-	github.com/hugomods/base v0.7.0 // indirect
+	github.com/hugomods/base v0.7.1 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.4.1 // indirect
@@ -45,7 +45,7 @@ require (
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/katex v0.3.1 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.0 // indirect
-	github.com/hugomods/seo/modules/base v0.1.2 // indirect
+	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.1 // indirect
 	github.com/hugomods/seo/modules/open-graph v0.1.0 // indirect
 	github.com/hugomods/seo/modules/schema v0.1.2 // indirect
