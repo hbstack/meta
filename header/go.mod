@@ -9,7 +9,7 @@ require (
 	github.com/hbstack/header/modules/search v0.1.37 // indirect
 	github.com/hbstack/header/modules/socials v0.2.1 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.5.2 // indirect
-	github.com/hugomods/base v0.7.0 // indirect
+	github.com/hugomods/base v0.7.1 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/hugopress v0.4.1 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
