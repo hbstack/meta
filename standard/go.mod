@@ -14,7 +14,7 @@ require (
 	github.com/hbstack/footer v0.4.1 // indirect
 	github.com/hbstack/footer/modules/socials v0.3.0 // indirect
 	github.com/hbstack/header v0.14.5 // indirect
-	github.com/hbstack/header/modules/language-picker v0.1.25 // indirect
+	github.com/hbstack/header/modules/language-picker v0.1.26 // indirect
 	github.com/hbstack/header/modules/search v0.1.36 // indirect
 	github.com/hbstack/header/modules/socials v0.2.0 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.5.1 // indirect
@@ -24,7 +24,7 @@ require (
 	github.com/hugomods/base v0.7.0 // indirect
 	github.com/hugomods/bootstrap v0.22.2 // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
-	github.com/hugomods/hugopress v0.4.0 // indirect
+	github.com/hugomods/hugopress v0.4.1 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
 	github.com/hugomods/icons v0.6.4 // indirect
 	github.com/hugomods/icons/vendors/simple-icons v1.0.42 // indirect
