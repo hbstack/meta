@@ -44,7 +44,7 @@ require (
 	github.com/hugomods/icons v0.6.4 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/katex v0.3.1 // indirect
-	github.com/hugomods/seo/modules/alternatives v0.1.0 // indirect
+	github.com/hugomods/seo/modules/alternatives v0.1.1 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.1 // indirect
 	github.com/hugomods/seo/modules/open-graph v0.1.0 // indirect
