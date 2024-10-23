@@ -9,7 +9,7 @@ require (
 	github.com/hugomods/base v0.7.2 // indirect
 	github.com/hugomods/bootstrap v0.22.3 // indirect
 	github.com/hugomods/hugopress v0.5.0 // indirect
-	github.com/hugomods/icons/vendors/bootstrap v0.5.7 // indirect
+	github.com/hugomods/icons/vendors/bootstrap v0.5.8 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
 	github.com/hugomods/katex v0.3.3 // indirect
 	github.com/hugomods/shortcodes v0.23.0 // indirect
