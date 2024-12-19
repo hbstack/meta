@@ -86,6 +86,7 @@ github.com/hugomods/katex v0.3.1/go.mod h1:EBY1YQTN6F8FDQz+mWp3EzEh8vDN31YjL9luV
 github.com/hugomods/katex v0.3.2/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
 github.com/hugomods/katex v0.3.3/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
 github.com/hugomods/katex v0.3.4/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
+github.com/hugomods/katex v0.3.5/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
 github.com/hugomods/shortcodes v0.12.1 h1:bhPTgbDIUEG8Hqi0eMESdrCN9Ot4SE3zV0TXSUlo+Fo=
 github.com/hugomods/shortcodes v0.12.1/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
 github.com/hugomods/shortcodes v0.13.1/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
