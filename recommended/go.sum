@@ -316,6 +316,7 @@ github.com/hbstack/slide v0.3.0/go.mod h1:iKDyeU/HJpjXiwsAScBH626Z0oTCsfiK6Tt1O1
 github.com/hbstack/slide v0.3.1/go.mod h1:DXC2z0RZvREHl2+gcN6n90xD5c+l+edSkC1q/VUi8yI=
 github.com/hbstack/slide v0.3.2/go.mod h1:5LOWGyawNzSWFlW+3kuUBSrK15kottNvolEc7FVcYVg=
 github.com/hbstack/slide v0.4.0/go.mod h1:5LOWGyawNzSWFlW+3kuUBSrK15kottNvolEc7FVcYVg=
+github.com/hbstack/slide v0.4.1/go.mod h1:/K79cb1nsgmh+FhvvpdqmDje9AhROgDp+/uzWPdR764=
 github.com/hbstack/socials v0.6.0 h1:vnDZLpQmA2tJAHQeOXuFtlzMIoE8rUKahiBRuhkeg3w=
 github.com/hbstack/socials v0.6.0/go.mod h1:vOckvjx7Tvhg+QJ4rKR7lTj3GytBMACj1Q43V459J5Q=
 github.com/hbstack/socials v0.7.0/go.mod h1:0IViwiReyAknJBIXFqhThn6m13jbib6lLFYfMIWZYzY=
