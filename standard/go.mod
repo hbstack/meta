@@ -39,5 +39,5 @@ require (
 	github.com/hugomods/seo/modules/translations v0.1.1 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.1 // indirect
 	github.com/hugomods/shortcodes v0.25.0 // indirect
-	github.com/twbs/icons v1.11.3 // indirect
+	github.com/twbs/icons v1.11.4 // indirect
 )
