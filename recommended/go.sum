@@ -501,6 +501,7 @@ github.com/jakearchibald/idb v7.1.1+incompatible/go.mod h1:AuDoW54s2DKfbclM+Scrn
 github.com/jakearchibald/idb v8.0.0+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
 github.com/jakearchibald/idb v8.0.1+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
 github.com/jakearchibald/idb v8.0.2+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
+github.com/jakearchibald/idb v8.0.3+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
 github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.1 h1:lMKkMwupTDfBJWXx6RFLwfYuCmqG/uUAu2LaOf7bZjU=
