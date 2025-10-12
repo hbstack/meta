@@ -1,10 +1,10 @@
 {
-    "blog": "0.2.11",
-    "content": "0.4.10",
-    "docs": "0.2.12",
-    "footer": "0.2.9",
-    "header": "0.2.11",
-    "recommended": "0.2.10",
-    "seo": "0.2.0",
-    "standard": "0.2.12"
+    "blog": "0.2.12",
+    "content": "0.4.11",
+    "docs": "0.2.13",
+    "footer": "0.2.10",
+    "header": "0.2.12",
+    "recommended": "0.2.11",
+    "seo": "0.2.1",
+    "standard": "0.2.13"
 }
