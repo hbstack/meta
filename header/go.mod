@@ -3,7 +3,7 @@ module github.com/hbstack/meta/header
 go 1.19
 
 require (
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
 	github.com/hbstack/header v0.16.7 // indirect
 	github.com/hbstack/header/modules/language-picker v0.2.0 // indirect
 	github.com/hbstack/header/modules/search v0.1.38 // indirect
